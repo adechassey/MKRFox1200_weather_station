@@ -19,13 +19,13 @@ This project discribes how to monitor weather data with the Sigfox network.
 4. Flash the board with the code in this repo
 5. Copy/paste the following code in the "Cloud Code" 'sigfox_parser' function at https://sigfox.thethings.io/#/ | https://jsbin.com/coxetafuvu/1/edit?js 
 6. Create a Sigfox backend callback for your device
-Use the following custom payload config:
-```
-moduleTemp::int:16:little-endian dhtTemp::int:16:little-endian dhtHum::uint:16:little-endian lastMsg::uint:8
-```
-Use the following URL pattern:
-```
-https://subscription.thethings.io/sgfx/XXXXX/XXXXXXXXXXXXX?id={device}&data={data}&moduleTemp={customData#moduleTemp}&dhtTemp={customData#dhtTemp}&dhtHum={customData#dhtHum}&lastMsg={customData#lastMsg}
-```
+    * Use the following custom payload config:
+    ```
+    moduleTemp::int:16:little-endian dhtTemp::int:16:little-endian dhtHum::uint:16:little-endian lastMsg::uint:8
+    ```
+    * Use the following URL pattern:
+    ```
+    https://subscription.thethings.io/sgfx/XXXXX/XXXXXXXXXXXXX?id={device}&data={data}&moduleTemp={customData#moduleTemp}&dhtTemp={customData#dhtTemp}&dhtHum={customData#dhtHum}&lastMsg={customData#lastMsg}
+    ```
 
 > *Antoine de Chassey*
