@@ -3,7 +3,7 @@
 //
 // Created: 16.05.2017
 // Author: Antoine de Chassey
-// Code:  https://github.com/AntoinedeChassey/MKRFOX1200_weather_station
+// Code: https://github.com/AntoinedeChassey/MKRFOX1200_weather_station
 // --------------------------------------------------------------------------
 
 #include "SigFox.h"
@@ -19,7 +19,7 @@
 
 #define DHTPIN 1                  // What digital pin we're connected to
 #define DHTTYPE DHT11
-#define DEBUG true                // Set DEBUG to false to enable continuous mode and disable serial prints
+#define DEBUG true                // Set DEBUG to false to disable serial prints
 #define SLEEPTIME 15 * 60 * 1000  // Set the delay to 15 minutes (15 min x 60 seconds x 1000 milliseconds)
 
 typedef struct __attribute__ ((packed)) sigfox_message {
