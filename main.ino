@@ -3,7 +3,7 @@
 //
 // Created: 16.05.2017
 // Author: Antoine de Chassey
-// Code:
+// Code:  https://github.com/AntoinedeChassey/MKRFOX1200_weather_station
 // --------------------------------------------------------------------------
 
 #include "SigFox.h"
