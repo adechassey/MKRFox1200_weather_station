@@ -1,7 +1,7 @@
 # MKRFOX1200 Weather Station
 This project discribes how to monitor weather data with the Sigfox network.
 
-![alt text](https://pbs.twimg.com/media/C8VV3O6XkAAO3UG.jpg | width=100)
+![alt text](https://pbs.twimg.com/media/C8VV3O6XkAAO3UG.jpg)
 
 ## Prerequisite
 - Create an account on the Sigfox Backend | https://backend.sigfox.com/ (if you don't already have one)
