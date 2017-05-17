@@ -11,12 +11,13 @@ This project discribes how to monitor weather data with the Sigfox network.
 - Install the Arduino IDE
 - Select the MKRFox1200 board
 - Install the following librairies:
-    Arduino SigFox for MKRFox1200
-    Arduino Low Power
-    RTCZero
-    DHT sensor library (Adafruit)
+* Arduino SigFox for MKRFox1200
+* Arduino Low Power
+* RTCZero
+* DHT sensor library (Adafruit)
+
 - Flash the board with the code in this repo
 - Copy/paste the following code in the "Cloud Code" 'sigfox_parser' function at https://sigfox.thethings.io/#/ | https://jsbin.com/coxetafuvu/1/edit?js 
 
 
-*Antoine de Chassey*
+> *Antoine de Chassey*
