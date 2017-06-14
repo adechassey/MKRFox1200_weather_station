@@ -35,7 +35,6 @@ SigfoxMessage msg;
 DHT dht(DHTPIN, DHTTYPE);
 
 void setup() {
-
         if (DEBUG) {
                 // We are using Serial1 instead than Serial because we are going in standby
                 // and the USB port could get confused during wakeup. To read the DEBUG prints,
@@ -62,8 +61,7 @@ void setup() {
         dht.begin();
 }
 
-void loop()
-{
+void loop() {
         // Reading temperature or humidity takes about 250 milliseconds!
         // Sensor readings may also be up to 2 seconds 'old' (its a very slow sensor)
         float h = dht.readHumidity();
