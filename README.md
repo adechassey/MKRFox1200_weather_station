@@ -1,4 +1,4 @@
-# MKRFox1200 Weather Station :satellite::earth_africa:
+# [MKRFox1200](https://www.arduino.cc/en/Main.ArduinoBoardMKRFox1200) Weather Station :satellite::earth_africa:
 This project discribes how to monitor weather data with the Sigfox network.
 
 ![alt text](https://pbs.twimg.com/media/C8VV3O6XkAAO3UG.jpg)
