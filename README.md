@@ -31,3 +31,8 @@ This project discribes how to monitor weather data with the Sigfox network (LPWA
 8. Enjoy! :+1:
 
 > *Antoine de Chassey*
+
+## Support on Beerpay
+Hey dude! Help me out for a couple of :beers:!
+
+[![Beerpay](https://beerpay.io/AntoinedeChassey/MKRFox1200_weather_station/badge.svg?style=beer-square)](https://beerpay.io/AntoinedeChassey/MKRFox1200_weather_station)  [![Beerpay](https://beerpay.io/AntoinedeChassey/MKRFox1200_weather_station/make-wish.svg?style=flat-square)](https://beerpay.io/AntoinedeChassey/MKRFox1200_weather_station?focus=wish)
