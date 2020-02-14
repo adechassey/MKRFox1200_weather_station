@@ -1,6 +1,8 @@
 # [MKRFox1200](https://www.arduino.cc/en/Main.ArduinoBoardMKRFox1200) Weather Station :satellite::earth_africa:
 This project discribes how to monitor weather data with the Sigfox network (LPWAN ~ 6 months battery life with 2x AA).
 
+<a href="https://www.buymeacoffee.com/antoine" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;"></a>
+
 ![alt text](https://pbs.twimg.com/media/C8VV3O6XkAAO3UG.jpg)
 
 ## Prerequisite
@@ -32,7 +34,7 @@ This project discribes how to monitor weather data with the Sigfox network (LPWA
 
 > *Antoine de Chassey*
 
-## Support on Beerpay
-Hey dude! Help me out for a couple of :beers:!
+## Support me
+Hey dude! Help me out for a couple of :beers: or :coffee:!
 
-[![Beerpay](https://beerpay.io/AntoinedeChassey/MKRFox1200_weather_station/badge.svg?style=beer-square)](https://beerpay.io/AntoinedeChassey/MKRFox1200_weather_station)  [![Beerpay](https://beerpay.io/AntoinedeChassey/MKRFox1200_weather_station/make-wish.svg?style=flat-square)](https://beerpay.io/AntoinedeChassey/MKRFox1200_weather_station?focus=wish)
+<a href="https://www.buymeacoffee.com/antoine" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;"></a>
